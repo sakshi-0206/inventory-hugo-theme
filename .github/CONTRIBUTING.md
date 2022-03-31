@@ -57,7 +57,7 @@ If an issue has no updates for longer than seven days, you may follow up and ask
 
 Then, **leave a comment** in the issue you want to work on.
 A maintainer will reply asking for more information or they will assign the issue to you.
-When you are assigned a issue, this means you are approved to work on it.
+When you are assigned an issue, this means you are approved to work on it.
 
 Finally, once approved to work on an issue, **create a new [git feature branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)** for the issue you are working on.
 This will help you [make a pull request](#conventions--submit-pr) and make revisions easier.
